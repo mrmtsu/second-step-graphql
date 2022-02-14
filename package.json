@@ -1,0 +1,14 @@
+{
+  "name": "second-step-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mrmtsu/second-step-graphql.git",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/cli": "^8.2.1",
+    "@nestjs/graphql": "^10.0.2",
+    "apollo-server-express": "^3.6.3",
+    "graphql": "^15"
+  }
+}
